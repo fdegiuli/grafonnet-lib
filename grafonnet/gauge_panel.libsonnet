@@ -36,6 +36,7 @@
    * @method addMappings(mappings) Adds an array of value mappings.
    * @method addDataLink(link) Adds a data link.
    * @method addDataLinks(links) Adds an array of data links.
+   * @method addOverride(matcher, properties) Adds a single field override.
    * @param timeFrom (optional)
    */
   new(
